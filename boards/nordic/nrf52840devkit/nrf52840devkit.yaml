@@ -1,0 +1,10 @@
+identifier: nrf52840devkit/nrf52840
+name: Development Kit nrf52840-DK
+vendor: nordic
+type: mcu
+arch: arm
+ram: 256
+flash: 472
+toolchain:
+  - zephyr
+supported: []

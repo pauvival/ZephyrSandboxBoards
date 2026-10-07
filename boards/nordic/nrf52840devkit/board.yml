@@ -1,0 +1,6 @@
+board:
+  name: nrf52840devkit
+  full_name: nrf52840devkit
+  vendor: nordic
+  socs:
+    - name: nrf52840
